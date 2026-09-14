@@ -13,6 +13,8 @@ npm run build
 npm run start
 ```
 
+Then click on the localhost link in the console to visit the webpage
+
 ## Structure of the Project
 
 I started by thinking of a basic architecture for this that I came up with without using any AI.
