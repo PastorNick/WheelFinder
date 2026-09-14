@@ -34,6 +34,7 @@ This component powers the UI dropdowns and checkboxes that allow users to filter
 ### Wheel Grid (`wheelGrid.tsx`)
 
 This component allows an arbitrary number of wheel card components to be displayed on the page in a grid fashion.
+Uses the Card component to display the individual cards.
 
 ### Card Component (`card.tsx`)
 
