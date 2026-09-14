@@ -25,7 +25,7 @@ The basic architecture is as follows:
 
 ### Home Page (`page.tsx`)
 
-This page serves as the primary orchestration layer. It houses most of the state management such that all of the filtering and sorting input from the users is centralized into one place. Otherwise, multiple copies of the filter state would have to be maintained in order for the wheel grid to know what happens when a user interacts with a filter, given that they are two separate components.
+This page serves as the primary orchestration layer and uses both the FilterBar and WheelGrid components. It houses most of the state management such that all of the filtering and sorting input from the users is centralized into one place. Otherwise, multiple copies of the filter state would have to be maintained in order for the wheel grid to know what happens when a user interacts with a filter, given that they are two separate components.
 
 ### Filter Bar (`filterBar.tsx`)
 
