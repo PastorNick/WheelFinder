@@ -19,7 +19,7 @@ Then click on the localhost link in the console to visit the webpage
 
 I started by thinking of a basic architecture for this that I came up with without using any AI.
 
-I always like to have a full understanding of the basic pattern down in my head before using any AI tools. I've found that building the foundation myself helps me stay close to the project without risking too much cognitive debt.
+I always like to have a full understanding of the basic pattern down in my head before using any AI tools. I've found that building the foundation myself helps me stay close to the project without risking too much cognitive debt. Once I have solid basic pattern down, then I usually bring in an AI tool to help me build from there.
 
 The basic architecture is as follows:
 
